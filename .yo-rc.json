@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Let me be your Bing Bong",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "dvberkel",
+    "githubRepository": "rails.girls.amsterdam.2017"
+  }
+}
