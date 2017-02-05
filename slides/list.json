@@ -2,7 +2,9 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background": "resources/BingBong.jpg"
+            "class": "title",
+            "data-background": "resources/BingBong.jpg",
+            "data-background-position": "top"
         }
     },
     "attribution.md"
