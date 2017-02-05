@@ -1,4 +1,9 @@
 [
-    "index.md",
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "resources/BingBong.jpg"
+        }
+    },
     "attribution.md"
 ]
