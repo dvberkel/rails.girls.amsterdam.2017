@@ -1,4 +1,5 @@
 [
+    "attribution.md",
     {
         "filename": "index.md",
         "attr": {
@@ -7,6 +8,6 @@
             "data-background-position": "top"
         }
     },
-    "attribution.md",
+    "trump.md",
     "this-is-fine.md"
 ]

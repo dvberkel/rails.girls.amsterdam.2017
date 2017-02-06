@@ -1,0 +1,1 @@
+![Trump](resources/trump.jpg)
