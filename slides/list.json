@@ -1,0 +1,18 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "class": "title",
+            "data-background": "resources/BingBong.jpg",
+            "data-background-position": "top"
+        }
+    },
+    "trump.md",
+    "this-is-fine.md",
+    "inside-out.md",
+    "song-power.md",
+    "memory-lane.md",
+    "memory-dump.md",
+    "to-the-moon.md",
+    "attribution.md"
+]
