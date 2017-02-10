@@ -1,5 +1,4 @@
 [
-    "attribution.md",
     {
         "filename": "index.md",
         "attr": {
@@ -14,5 +13,6 @@
     "song-power.md",
     "memory-lane.md",
     "memory-dump.md",
-    "to-the-moon.md"
+    "to-the-moon.md",
+    "attribution.md"
 ]
