@@ -1,6 +1,5 @@
 ##  Attribution
 
-* **Bing Bong**: [http://disney.wikia.com/wiki/Bing_Bong](http://disney.wikia.com/wiki/Bing_Bong)
+* **Time Cover**: [http://time.com](http://time.com)
 * **This is fine**: [http://gunshowcomic.com/648](http://gunshowcomic.com/648)
 * **Inside Out**: [http://disney.nl/](http://disney.nl/)
-* **Memory Lane** [http://disney.nl](http://disney.nl)
